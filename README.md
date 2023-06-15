@@ -1,0 +1,1 @@
+Minimal example demonstrating how to use locale based routing in a SvelteKit application
