@@ -9,8 +9,9 @@
 
 <nav>
   <img src="/goc.svg" alt="" />
-  <a href={`/${data.locale === "en" ? "fr" : "en"}/${data.path}`}
-    >{data.locale === "en" ? "Français" : "English"}</a
+  <a
+    href={`/${data.locale === "en" ? "fr" : "en"}/${data.path}`}
+    data-sveltekit-reload>{data.locale === "en" ? "Français" : "English"}</a
   >
 </nav>
 <div class="container">

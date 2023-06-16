@@ -67,7 +67,7 @@
     display: flex;
     justify-items: center;
     align-items: center;
-    gap: 1rem;
+    gap: 1.5rem;
     margin-top: auto;
     padding: 2rem;
     background-color: #e1e4e7;
@@ -76,6 +76,6 @@
     text-decoration: none;
   }
   .toc img {
-    height: 2rem;
+    height: 1.5rem;
   }
 </style>
